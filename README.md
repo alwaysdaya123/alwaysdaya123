@@ -12,9 +12,8 @@ I also have extensive experience in Java development, which I leverage to create
 2.Develop and deploy data-driven applications with Machine Learning models and Flask.  
 3.Write clean, efficient, and scalable code in Java and Python.  
 💡 Passionate about backend development, cloud computing, and AI-driven solutions.  
-📚 Always learning & exploring new technologies!  
-
-##🌟 Technologies & Tools:
+📚 Always learning & exploring new technologies! 
+## 🌟 Technologies & Tools:
 🌟 Technologies & Tools:  
 🚀 Java (Spring Boot, Hibernate, JDBC, Servlets)  
 🖥️ Frontend: HTML, CSS, JavaScript, JSP, Bootstrap, Angular  
