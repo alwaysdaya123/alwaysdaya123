@@ -3,6 +3,13 @@ I am a Java fullstack Developer and Flask Python Developer with a strong passion
 I also have extensive experience in Java development, which I leverage to create scalable and efficient solutions.  
 💡 Passionate about backend development, microservices, and cloud computing.  
 📚 Always learning & exploring new technologies!  
+
+
+## 🧑‍💻 What I do:
+Build Data Science tools and Machine Learning models to extract valuable insights from data.
+Develop Flask-based web applications to deploy data-driven solutions.
+Write clean, efficient, and scalable code in Python and Java.
+
 <!--
 **alwaysdaya123/alwaysdaya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
